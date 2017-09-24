@@ -9,16 +9,17 @@ Running The demo must need OpenCV. The demo includes display the keypoints on a 
 
 ### Display SIFT keypoints by SiftySifty
 the keypoints that draws in the image is detected by SiftySifty and displayed by OepnCV.
-![](pic/siftysifty.png)
+
+![](pic/siftysifty.jpg)
 <br>
 <br>
 ### Math the images using SIFT keypoints by SiftySifty
 the keypoints that draws in the image is detected by SiftySifty and matching&display is by OepnCV.
-![](pic/siftymatchsifty2.png)
+![](pic/siftymatchsifty2.jpg)
 <br>
 <br>
 ### Math the images using SIFT keypoints by SiftySifty and OpenCV
 math keypoints between SiftySifty and OpenCV, left is SiftySifty, right is OpenCV. Displayed by OepnCV.
-![](pic/siftysiftymatchopencv.png)
+![](pic/siftysiftymatchopencv.jpg)
 
 
